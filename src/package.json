@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "superagent": "^2.3.0",
+    "superagent": "^9.0.0",
     "mock-req": "^0.2.0",
     "multiparty": "^4.1.2"
   }
